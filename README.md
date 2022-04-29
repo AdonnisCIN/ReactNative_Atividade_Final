@@ -1,1 +1,3 @@
-# ReactNative_Atividade_Final
+# Atividade-React_Native
+
+Roteamento e criação de telas.
